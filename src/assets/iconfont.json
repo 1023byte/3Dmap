@@ -1,0 +1,16 @@
+{
+  "id": "4111702",
+  "name": "map",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5806778",
+      "name": "3 Pointer",
+      "font_class": "Pointer",
+      "unicode": "e8a0",
+      "unicode_decimal": 59552
+    }
+  ]
+}
